@@ -1,1 +1,1 @@
-# js-crud-app
+# JavaScript CRUD App
