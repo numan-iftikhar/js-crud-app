@@ -17,6 +17,15 @@ function showAlert(msg, color) {
 }
 
 
+
+// Clear all fields
+function clearAllFields() {
+    document.querySelector("#first-name").value = "";
+    document.querySelector("#last-name").value = "";
+    document.querySelector("#roll-no").value = "";
+}
+
+
 // Delete Data
 document.querySelector("#student-list").addEventListener("click", (e)=>{
   target = e.target;
