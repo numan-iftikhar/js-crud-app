@@ -1,1 +1,1 @@
-# js-crup-app
+# JavaScript CRUD App
